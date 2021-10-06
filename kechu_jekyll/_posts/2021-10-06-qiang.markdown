@@ -1,0 +1,41 @@
+---
+layout: post
+category: [inscription]
+title: "Example of Qiang-captives"
+date: 2021-09-28 11:57:08 -0400
+permalink: /qiang_captive/
+---
+
+## Introduction
+Successful campaigns in the Shang context ended with the sacrifice of captives. And the vast majority of inscriptions regarding human sacrifice appear to follow the logic that of reduction from political enemy to anonymous victim (Campbell 2018, 202). In this post, we would use the examples of *Qiang*-captives to get a glimpse into whether natural spirits and ancestors both receive human sacrifice: why some case make offering to natural gods while other times to ancestors?
+
+## Transcription and Translation
+*戊子卜，賓，貞：叀（惠）今夕用三白羌于丁。用.*  (HJ293)
+Cracking on Wuzi, Bin divined: it should be this dusk that we use three hundred *Qiang*-captives to Ding. Used.
+<img src="/images/293.png" alt="1027 bone" width="300px">
+
+*貞：禦自唐、大甲、大丁、祖乙百羌、百牢羊。*
+*貞：禦，叀牛三百。*(HJ300)
+Divined: we should play exorcism against (starting) from Tang, (through) Da jia, Da Ding, (and) Ancestor Yi with hundred *Qiang*-captives and hundred specially-raised sheep.
+Divined: exorcise, it should be cattle, three hundred.
+<img src="/images/300.png" alt="1027 bone" width="300px">
+
+*庚申卜，㱿，貞：尞于苟(?)。*
+*貞：于黃奭尞。*
+*貞：方帝一羌、二犬，卯一牛。*
+*貞：勿方帝。*  (HJ418)
+Cracking on Gengshen, Que divined: we should offer a liao-burning sacrifice to Gou.
+Divined: it is to Huang Shuang we offer a liao-burning sacrifice.
+Divined: it is to Fang Di (we offer a sacrifice using) one *Qiang*-captive, two dogs, and opening a cattle.
+Divined: it should not be Fang Di.
+<img src="/images/418.png" alt="418 bone" width="300px">
+
+*癸卯卜，㱿，㞢于河三羌，卯三牛，尞一牛。*
+*癸卯卜，㱿，尞河一牛，㞢三羌，卯三牛。*
+*癸卯卜，王，㞢于祖乙二牛，用。*
+*癸卯卜，㱿：…于大甲。*(HJ1027)
+Cracking on Guimao, Que: we should offer a you-sacrifice to the river using three *Qiang*-captives, opening three cattle, and a liao-burning sacrifice using a ox.
+Cracking on Guimao, Que: we should offer a liao-burning sacrifice to the river using a cattle, a you-sacrifice using three *Qiang*-captives, and opening three cattle.
+Cracking on Guimao, the king: we should offer a you-sacrifice to Ancestor Yi using two cattle. Used.
+Cracking on Guimao, Que: ... to Da Jia.
+<img src="/images/1027.png" alt="1027 bone" width="300px">

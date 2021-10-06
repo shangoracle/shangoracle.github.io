@@ -1,0 +1,22 @@
+
+- title: Introduction #Menu item title.
+  url: category/introduction.html #Menu item url.
+  icon: images/icons/menu.svg #Menu item icon.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+- title: Inscription
+  url: category/inscription.html
+  icon: images/icons/menu.svg
+  hue: "var(--c-themeHueOrange)"
+  subnav: #Subnav. See note [2].
+      - title: Natural spirits #Submenu item title.
+        url: category/inscription.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+
+- title: Bibliography
+  url: category/bibliography.html
+  icon: images/icons/menu.svg
+  hue: "var(--c-themeHueGreen)"
+- title: About
+  url: category/about.html
+  icon: images/icons/menu.svg
+  hue: "var(--c-themeHueGreen)"

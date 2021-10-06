@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The site"
+date:   2021-10-06 09:17:32 -0400
+category: [about]
+---
+
+## The content
+Shang divinity:      
+1) The power of natural spirits.  
+2) Do natural spirits receive  rituals and sacrificial offerings similar to those received by  ancestors?  
+
+## The technical approach
+Theme: jekyll-theme-simplex
